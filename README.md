@@ -1,7 +1,7 @@
 ###  Hi! My name is Julio Coronetti! 👋
 🌴 Exotic technology enthusiast
 
-###  I am Full Stack Developer 🐱‍💻
+###  I am Front-End Developer 🐱‍💻
 🧩 A web developer specializing in building web applications. Focused on creating exotic and fun experiences!
 ### See more about me 🔍
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007FBC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-coronetti/)
